@@ -1,9 +1,16 @@
-# React + Vite
+<h1>Netflix-Clon</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Libraries used;
 
-Currently, two official plugins are available:
+-React
+-Vite
+-Redux-Toolkit
+-React-Router-Dom
+-Axios
+-Tailwind -www.themoviedb.org API
+-Millify
+-React-Splice
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Netflix-Clon
+<h2>Screenshot</h2>
+
+![](1.gif)
