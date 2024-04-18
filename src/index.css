@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: #242424;
+  color: rgba(255, 255, 255, 0.87);
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+.hero-img {
+  filter: drop-shadow(0 0 80px rgba(255, 255, 255, 0.37));
+}
+
+.select {
+  background-color: #242424;
+  border: 1.5px solid white;
+}
